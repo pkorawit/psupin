@@ -293,7 +293,7 @@ ons-carousel[fullscreen] {
           justify-content: space-between;
   font-size: 12px;
   line-height: 20px;
-  font-family: Arial, Helvetica;
+  font-family: 'Mitr', Arial, Helvetica;
 }
 
 ons-row {

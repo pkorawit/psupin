@@ -1,3 +1,5 @@
+
+
 .post {
   margin: 0px;
   padding: 0px 0px 15px;
@@ -21,6 +23,12 @@
 
 .post-image {
   width: 100%;
+}
+
+.preview-image {
+  width: 50%;
+  margin: auto;
+  display: block;
 }
 
 .post-time {

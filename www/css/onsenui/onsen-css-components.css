@@ -87,7 +87,7 @@ h4, h5, h6 {
 :root {
 }
 .page {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -124,12 +124,12 @@ h4, h5, h6 {
   box-sizing: border-box;
 }
 .page--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
 }
 .page--material__content {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-weight: 400;
@@ -139,7 +139,7 @@ h4, h5, h6 {
 .page__content h3,
 .page__content h4,
 .page__content h5 {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-weight: 500;
@@ -160,7 +160,7 @@ h4, h5, h6 {
 .page--material__content h3,
 .page--material__content h4,
 .page--material__content h5 {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-weight: 500;
@@ -704,7 +704,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -742,7 +742,7 @@ h4, h5, h6 {
     <span class="notification notification--material">999</span>
 */
 .notification--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   background-color: #e91e63;
@@ -759,7 +759,7 @@ h4, h5, h6 {
     </div>
 */
 .toolbar {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -941,7 +941,7 @@ h4, h5, h6 {
     </div>
 */
 .bottom-bar {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1073,7 +1073,7 @@ h4, h5, h6 {
   border-bottom: none;
 }
 .toolbar--material__left, .toolbar--material__right {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-size: 20px;
@@ -1085,7 +1085,7 @@ h4, h5, h6 {
   line-height: 56px;
 }
 .toolbar--material__center {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-size: 20px;
@@ -1182,7 +1182,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1289,7 +1289,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1363,7 +1363,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1467,7 +1467,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1544,7 +1544,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1619,7 +1619,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1647,7 +1647,7 @@ h4, h5, h6 {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14),
       0 1px 5px 0 rgba(0, 0, 0, .12),
       0 3px 1px -2px rgba(0, 0, 0, .2);
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   min-height: 36px;
@@ -1712,7 +1712,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1740,7 +1740,7 @@ h4, h5, h6 {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14),
       0 1px 5px 0 rgba(0, 0, 0, .12),
       0 3px 1px -2px rgba(0, 0, 0, .2);
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   min-height: 36px;
@@ -1809,7 +1809,7 @@ h4, h5, h6 {
     </div>
 */
 .button-bar {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1828,7 +1828,7 @@ h4, h5, h6 {
   border: none;
 }
 .button-bar__item {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1841,7 +1841,7 @@ h4, h5, h6 {
   box-sizing: border-box;
 }
 .button-bar__button {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1921,7 +1921,7 @@ h4, h5, h6 {
     </div>
 */
 .segment {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1940,7 +1940,7 @@ h4, h5, h6 {
   border: none;
 }
 .segment__item {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1975,7 +1975,7 @@ h4, h5, h6 {
           appearance: none;
 }
 .segment__button {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2059,7 +2059,7 @@ h4, h5, h6 {
   box-shadow: 0 0 2px 0 rgba(0, 0, 0, .12), 0 2px 2px 0 rgba(0, 0, 0, .24);
 }
 .segment--material__button {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-size: 14px;
@@ -2153,7 +2153,7 @@ h4, h5, h6 {
     </div>
 */
 .tabbar {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2183,7 +2183,7 @@ h4, h5, h6 {
   }
 }
 .tabbar__item {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2216,7 +2216,7 @@ h4, h5, h6 {
           appearance: none;
 }
 .tabbar__button {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2265,7 +2265,7 @@ h4, h5, h6 {
   height: 28px;
 }
 .tabbar__label {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2499,7 +2499,7 @@ h4, h5, h6 {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 500;
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
 }
@@ -2593,12 +2593,12 @@ h4, h5, h6 {
     </div>
 */
 .tabbar--material__label {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
 }
 .tabbar--material__label:first-child {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   letter-spacing: 0.015em;
@@ -2623,7 +2623,7 @@ h4, h5, h6 {
     </button>
 */
 .toolbar-button {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2784,7 +2784,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2801,7 +2801,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2907,7 +2907,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3023,7 +3023,7 @@ h4, h5, h6 {
 */
 .checkbox--material {
   line-height: 18px;
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   overflow: visible;
@@ -3201,7 +3201,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3271,7 +3271,7 @@ h4, h5, h6 {
 */
 .radio-button--material {
   line-height: 20px + 2px;
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
 }
@@ -3391,7 +3391,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4006,7 +4006,7 @@ h4, h5, h6 {
     </ul>
 */
 .list--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   background-image: none;
@@ -4317,7 +4317,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4346,7 +4346,7 @@ h4, h5, h6 {
     </ul>
  */
 .list-title--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: #757575;
@@ -4374,7 +4374,7 @@ h4, h5, h6 {
   vertical-align: top;
   outline: none;
   line-height: 1;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4444,7 +4444,7 @@ h4, h5, h6 {
     <input type="search" value="" placeholder="Search" class="search-input search-input--material" style="width: 280px;">
 */
 .search-input--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   border-radius: 2px;
@@ -4477,7 +4477,7 @@ h4, h5, h6 {
   vertical-align: top;
   outline: none;
   line-height: 1;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4559,7 +4559,7 @@ h4, h5, h6 {
   vertical-align: top;
   outline: none;
   line-height: 1;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4647,11 +4647,11 @@ h4, h5, h6 {
   vertical-align: top;
   outline: none;
   line-height: 1;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: #212121;
@@ -4671,7 +4671,7 @@ h4, h5, h6 {
   -webkit-transform: translate3d(0, 0, 0); /* FIXME: prevent ios flicker */
 }
 .text-input--material__label {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: #afafaf;
@@ -4751,7 +4751,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4805,7 +4805,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4874,7 +4874,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4930,7 +4930,7 @@ h4, h5, h6 {
     </div>
 */
 .dialog--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   text-align: left;
@@ -4980,7 +4980,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5003,7 +5003,7 @@ h4, h5, h6 {
   overflow: hidden;
 }
 .alert-dialog-title {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5035,7 +5035,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5233,7 +5233,7 @@ h4, h5, h6 {
       0 8px 10px -5px rgba(0, 0, 0, .4);
 }
 .alert-dialog-title--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   text-align: left;
@@ -5243,7 +5243,7 @@ h4, h5, h6 {
   color: #212121;
 }
 .alert-dialog-content--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   text-align: left;
@@ -5264,7 +5264,7 @@ h4, h5, h6 {
   line-height: 1;
 }
 .alert-dialog-button--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   text-transform: uppercase;
@@ -5409,7 +5409,7 @@ h4, h5, h6 {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5843,7 +5843,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5918,7 +5918,7 @@ h4, h5, h6 {
   background: transparent;
   border: none;
   line-height: normal;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -5943,7 +5943,7 @@ h4, h5, h6 {
   box-shadow: 0 3px 6px rgba(0, 0, 0, .12);
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   width: 56px;
@@ -6088,7 +6088,7 @@ h4, h5, h6 {
   line-height: normal;
   box-sizing: border-box;
   background-clip: padding-box;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6119,7 +6119,7 @@ h4, h5, h6 {
   line-height: normal;
   box-sizing: border-box;
   background-clip: padding-box;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6159,7 +6159,7 @@ h4, h5, h6 {
   vertical-align: top;
   outline: none;
   line-height: 1;
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6253,7 +6253,7 @@ h4, h5, h6 {
     </select>
 */
 .select-input--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: rgba(0, 0, 0, 1);
@@ -6269,7 +6269,7 @@ h4, h5, h6 {
           transform: translate3d(0, 0, 0); /* prevent ios flicker */
 }
 .select-input--material__label {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: rgba(0, 0, 0, .81);
@@ -6415,7 +6415,7 @@ h4, h5, h6 {
     </div>
 */
 .action-sheet {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6555,7 +6555,7 @@ h4, h5, h6 {
       0 8px 10px -5px rgba(0, 0, 0, .4);
 }
 .action-sheet-title--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   border-radius: 0;
@@ -6573,7 +6573,7 @@ h4, h5, h6 {
   border-radius: 0;
 }
 .action-sheet-button--material {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   border-radius: 0;
@@ -6623,7 +6623,7 @@ h4, h5, h6 {
     </div>
 */
 .card {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6654,7 +6654,7 @@ h4, h5, h6 {
     </div>
 */
 .card__title {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6681,7 +6681,7 @@ h4, h5, h6 {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14),
       0 1px 5px 0 rgba(0, 0, 0, .12),
       0 3px 1px -2px rgba(0, 0, 0, .2);
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
 }
@@ -6702,7 +6702,7 @@ h4, h5, h6 {
     </div>
 */
 .card--material__title {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   font-size: 24px;
@@ -6718,7 +6718,7 @@ h4, h5, h6 {
     </div>
 */
 .toast {
-  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  font-family: -apple-system, 'Mitr','Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -6789,13 +6789,13 @@ h4, h5, h6 {
   padding: 0 24px;
 }
 .toast--material__message {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   margin: 0 24px 0 0;
 }
 .toast--material__button {
-  font-family: 'Roboto', 'Noto', sans-serif;
+  font-family: 'Mitr','Roboto', 'Noto', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: #80cbc4;
