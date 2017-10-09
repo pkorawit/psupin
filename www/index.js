@@ -52,7 +52,12 @@ ons.ready(function () {
                 duration: 5000,
                 padding: 0  // default = 20px
               }, function() {
-                //alert("Camera target has been changed");
+                map.addMarker({
+                    'position': {
+                      lat: position.coords.latitude,
+                      lng: position.coords.longitude
+                    }
+                });
               });                                       
         });
 

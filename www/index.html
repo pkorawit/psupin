@@ -14,7 +14,7 @@
   <script type="text/javascript" src="cordova.js"></script>
   <script type="text/javascript" src="index.js"></script>
   <style>
-    #map .page__background { background-color: rgba(0,0,0,0);}
+    #new .page__background { background-color: rgba(0,0,0,0);}
   </style>
 </head>
 
@@ -63,7 +63,7 @@
         <ons-input style="width:100%;" input-id="desc" id="desc" modifier="underbar" placeholder="Share what's happen"></ons-input>
       </section>
       <section style="padding: 8px;text-align: center;">
-        <ons-input style="width:100%;" input-id="location" id="location" modifier="underbar"></ons-input>
+        <div style="width:100%;height:200px;" id="map_canvas"></div>
       </section>
     </ons-page>
   </template>
